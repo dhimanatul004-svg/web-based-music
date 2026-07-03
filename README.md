@@ -1,1 +1,4 @@
 **Hand Music Visualizer Pro** is an interactive web application that transforms hand gestures into music and real-time visual effects using MediaPipe Hands and the Web Audio API. Control pitch, volume, and instruments through natural hand movements while enjoying dynamic particle animations, waveform visualizations, and a modern glassmorphism UI. Built with HTML, CSS, and JavaScript, requiring no additional installation.
+
+## 🚀 Live Demo
+https://dhimanatul004-svg.github.io/web-based-music/
